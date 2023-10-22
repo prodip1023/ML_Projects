@@ -2,5 +2,8 @@
 
 # First initialize the Git
 '''
-1. git init
+ git init
+ git add abc.txt
+ git add .
+ git commit -m "my first commit"
 '''
