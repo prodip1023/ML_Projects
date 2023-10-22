@@ -4,7 +4,10 @@
 '''
  git init
  '''
- '''git add abc.txt'''
+ ''' git add abc.txt '''
  '''git add .'''
  '''git commit -m "my first commit"
 '''
+''' git pull '''
+'''
+bash init_setup.sh
