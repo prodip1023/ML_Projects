@@ -1,13 +1,9 @@
 # This is my end to end project 
 
 # First initialize the Git
-'''
- git init
- '''
- ''' git add abc.txt '''
- '''git add .'''
- '''git commit -m "my first commit"
-'''
-''' git pull '''
-'''
-bash init_setup.sh
+<br>git init 
+<br> git add abc.txt 
+ <br> git add .
+ <br> git commit -m "my first commit"
+ <br> git pull 
+ <br> bash init_setup.sh
